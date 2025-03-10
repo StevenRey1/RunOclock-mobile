@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor_0">#E66210</color>
+    <color name="primaryColor_10">#ED681C</color>
+    <color name="primaryColor_20">#F46F26</color>
+    <color name="primaryColor_30">#FB752F</color>
+    <color name="primaryColor_40">#FF7E3E</color>
+    <color name="primaryColor_50">#FF884E</color>
+    <color name="primaryColor_60">#FF905C</color>
+    <color name="primaryColor_70">#FF996A</color>
+    <color name="primaryColor_80">#FFA177</color>
+    <color name="primaryColor_90">#FFB99A</color>
+    <color name="primaryColor_95">#FFC9B2</color>
+    <color name="primaryColor_99">#FFD9C8</color>
+    <color name="primaryColor_100">#FFF7F4</color>
+
+    <color name="secundaryColor_0">#2110E6</color>
+    <color name="secundaryColor_10">#262BF4</color>
+    <color name="secundaryColor_20">#2C41FF</color>
+    <color name="secundaryColor_30">#3655FF</color>
+    <color name="secundaryColor_40">#3B5EFF</color>
+    <color name="secundaryColor_50">#4266FF</color>
+    <color name="secundaryColor_60">#6C91FF</color>
+    <color name="secundaryColor_70">#7B9EFF</color>
+    <color name="secundaryColor_80">#8BAAFF</color>
+    <color name="secundaryColor_90">#9BB6FF</color>
+    <color name="secundaryColor_95">#ABC3FF</color>
+    <color name="secundaryColor_99">#DDE7FF</color>
+    <color name="secundaryColor_100">#FFFFFF</color>
+
+
+    <color name="tertiaryColor_0">#915B3A</color>
+    <color name="tertiaryColor_10">#976140</color>
+    <color name="tertiaryColor_20">#9E6745</color>
+    <color name="tertiaryColor_30">#A46C4B</color>
+    <color name="tertiaryColor_40">#B77E5C</color>
+    <color name="tertiaryColor_50">#C48A68</color>
+    <color name="tertiaryColor_60">#D19774</color>
+    <color name="tertiaryColor_70">#DFA380</color>
+    <color name="tertiaryColor_80">#ECB08C</color>
+    <color name="tertiaryColor_90">#FABC99</color>
+    <color name="tertiaryColor_95">#FFCBAD</color>
+    <color name="tertiaryColor_99">#FFDAC5</color>
+    <color name="tertiaryColor_100">#FFF1E8</color>
+
+
+
+
+
+
+</resources>
